@@ -1,8 +1,9 @@
 <?php
 
     echo "Kur ketua tim";
-    echo "lope modul lima";
-    echo "Dela Modul tiga";
     echo "Sugih Modul dua";
+    echo "Ugih Selalu Ada";
+    echo "Dela Modul tiga";
     echo "hanny modul 4";
+    echo "lope modul lima";
 ?>
